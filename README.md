@@ -6,5 +6,6 @@ Path generator for robot.
 
 ## Status
 
-![](https://github.com/martinmaeland/Robot_Path_Generator/blob/master/res/demo.png)
+![](https://github.com/martinmaeland/Robot_Path_Generator/blob/main/res/demo.png)
+
 (date: 16.04.21)
