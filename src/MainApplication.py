@@ -81,7 +81,7 @@ class MainApplication:
     def save_path(self, path_coordinates):
 
         # --- write file ---
-        with open("./tmp/path.txt", "w+") as path_file:
+        with open("../tmp/path.txt", "w+") as path_file:
             
             # --- create writer ---
             path_writer = csv.writer(path_file)
